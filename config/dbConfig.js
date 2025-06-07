@@ -2,9 +2,9 @@
 const mysql = require('mysql2');
 
 const dbConfig = {
-    host: '127.0.0.2',
-    user: 'tfg',
-    password: 'tfg',
+    host: 'turntable.proxy.rlwy.net:32785',
+    user: 'root',
+    password: 'KmAqdKpMIcZxshFZKjCfPsyLSNiTzWBd',
     database: 'tfg',
     dateStrings: true
 };
