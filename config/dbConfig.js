@@ -3,6 +3,7 @@ const mysql = require('mysql2');
 
 const dbConfig = {
     host: 'turntable.proxy.rlwy.net',
+    port: 32785,
     user: 'root',
     password: 'KmAqdKpMIcZxshFZKjCfPsyLSNiTzWBd',
     database: 'tfg',
